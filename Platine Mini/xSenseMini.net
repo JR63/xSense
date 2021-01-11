@@ -1,7 +1,7 @@
 (export (version D)
   (design
-    (source O:\xSense\MiniTest\xSenseMini\xSenseMini.sch)
-    (date "11.01.2021 07:11:47")
+    (source "O:\\xSense\\Projekt\\Platine Mini\\xSenseMini.sch")
+    (date "11.01.2021 08:45:21")
     (tool "Eeschema (5.1.9)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -45,7 +45,7 @@
       (tstamp 5FFAF6C7))
     (comp (ref J1)
       (value Balancer)
-      (footprint Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Horizontal)
+      (footprint xSenseParts:SolderPad_5x)
       (datasheet ~)
       (libsource (lib Connector) (part Conn_01x05_Male) (description "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"))
       (sheetpath (names /) (tstamps /))

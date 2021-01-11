@@ -1,4 +1,4 @@
-(module SolderPad_6x (layer F.Cu) (tedit 5FFBFEF7)
+(module SolderPad_6x (layer F.Cu) (tedit 5FFC0719)
   (fp_text reference REF** (at -0.0254 2.2606) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
