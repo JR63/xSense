@@ -1,2 +1,0 @@
-Mini xSense Platine
-Nur Spannung und evtl. Strom
